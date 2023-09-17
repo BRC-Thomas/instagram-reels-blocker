@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "instagram-reels-blocker",
+    "slug": "instagram-reels-blocker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "instagram-reels-blocker"
+}
